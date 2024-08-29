@@ -1,0 +1,48 @@
+{
+    "greetings": [
+        {"pattern": "hi|hello|hey", "responses": ["Hello!", "Hi there!", "Hey! How can I assist you today?"]},
+        {"pattern": "good morning|good evening", "responses": ["Good morning!", "Good evening! How can I help?"]},
+        {"pattern": "how are you|wassup|how are you doing", "responses": ["I'm fine, how about you!", "I'm good, Thank you!"]},
+        {"pattern": "Thank you !|Thanks", "responses": ["Anytime"]}
+    ],
+    "jokes": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "I told my computer I needed a break, and now it won't stop sending me Kit-Kat ads.",
+        "Why do programmers prefer dark mode? Because the light attracts bugs!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "What did the tree say to the lumberjack? I'm falling for you",
+        "Why did the physics teacher break up with the biology teacher? Because they had no chemistry",
+        "Can a Kangaroo jump higher than a house? Of course! Houses can't jump",
+        ""  
+      ],
+    "quotes": [
+        "Believe you can and you're halfway there.",
+        "Your limitation—it's only your imagination.",
+        "Push yourself, because no one else is going to do it for you.",
+        "Great things never come from comfort zones.",
+        "Dream it. Wish it. Do it.",
+        "Life is like riding a bicycle. To keep your balance, you must keep moving. -Einstein ",
+        "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world. -Einstein ",
+        "The important thing is not to stop questioning. Curiosity has its own reason for existing. -Einstein ",
+        "Anyone who has never made a mistake has never tried anything new. -Einstein ",
+        "In the middle of difficulty lies opportunity. -Einstein ",
+        "It is only with the heart that one can see rightly; what is essential is invisible to the eye. - The Little Prince",
+        "Not all those who wander are lost. - The Lord of the Rings",
+        "All we have to decide is what to do with the time that is given us. - The Lord of the Rings",
+        "It does not do to dwell on dreams and forget to live. - Harry Potter and the Sorcerer's Stone",
+        "The only limit to our realization of tomorrow is our doubts of today. - The Great Gatsby",
+        "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. - Oh, the Places You'll Go!",
+        "It is our choices, Harry, that show what we truly are, far more than our abilities. - Harry Potter and the Chamber of Secrets",
+        "The world breaks everyone, and afterward, many are strong at the broken places. - A Farewell to Arms",
+        "And, when you want something, all the universe conspires in helping you to achieve it. - The Alchemist",
+        "The only thing you absolutely have to know is the location of the library. - Albert Einstein",
+        "So we beat on, boats against the current, borne back ceaselessly into the past. - The Great Gatsby",
+        "We accept the love we think we deserve. - The Perks of Being a Wallflower",
+        "The only way out of the labyrinth of suffering is to forgive. - Looking for Alaska",
+        "Real courage is when you know you're licked before you begin, but you begin anyway and see it through no matter what. - To Kill a Mockingbird",
+        "All animals are equal, but some animals are more equal than others. - Animal Farm"
+    ],
+    "farewells": [
+        {"pattern": "quit|exit|bye", "responses": ["Goodbye! Have a great day!", "See you later!", "It was nice talking to you!"]}
+    ]
+}
