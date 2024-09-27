@@ -53,7 +53,7 @@ def chatbot():
             if response:
                 print(f"ChatBot: {response}")
             else:
-                print("ChatBot: I'm not sure how to respond to that.")
+                print("ChatBot: Sorry, I didn't get that. Can you please rephrase?")
 
 if __name__ == "__main__":
     chatbot()
